@@ -6,5 +6,5 @@ The SIFT approach for encoding image patches is not available on python openCV l
 Therefore, the descriptors were extracted on MATLAB and analyzed on Python.<br>
 Kmean method was used for bagging the descriptors.
 
-<hr>Coursework2></h1>
+<hr>Coursework2</h1>
 <h3>GAN, CGAN, DCGAN</h3>
