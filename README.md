@@ -5,3 +5,6 @@ A vocabulary of 300 visual words is used to represent each image.<br>
 The SIFT approach for encoding image patches is not available on python openCV library anymore.<br>
 Therefore, the descriptors were extracted on MATLAB and analyzed on Python.<br>
 Kmean method was used for bagging the descriptors.
+
+<hr>Coursework2></h1>
+<h3>GAN, CGAN, DCGAN</h3>
